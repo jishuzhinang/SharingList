@@ -1,1 +1,1 @@
-# SharingLIst
+# SharingList
