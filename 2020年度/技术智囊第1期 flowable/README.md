@@ -5,7 +5,10 @@
 https://paulhh.wordpress.com/2017/01/31/flowable-6-instant-gratification/
 www.bpmn.org
 
-需要分享视频请添加微信 13547512824 ，说明需要那一期的分享视频
+## 技术视频分享链接
+
+和彩云网盘链接:https://caiyun.139.com/m/i?015ChdSJoEWCD 提取码: 2dQu
+百度网盘链接：https://pan.baidu.com/s/1cI3_SckXsPzeVvSKjugYpw 提取码：1qq6
 
 
 
