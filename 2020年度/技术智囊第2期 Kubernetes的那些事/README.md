@@ -1,5 +1,7 @@
 # Kubernetes的那些事
 
+分享者：刘鹏成
+
 视频链接分享：
 
   和彩云网盘链接:https://caiyun.139.com/m/i?015ChdSCmEeLd 提取码: XoD8
